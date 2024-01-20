@@ -2,13 +2,13 @@
 <h3 align='center'>Junior Front-End Developer 🧑🏻‍💻</h3>
 
 <br>
-Please take a look at my <a href='https://portfolio-chantaseng.netlify.app/'>portfolio</a> <br>
+Please take a look at my <a href='https://portfolio-chantaseng.netlify.app/' target="_blank">portfolio</a> <br>
 
 <br>
 - 👷🏻‍♂️ Web developer with almost a decade of construction experience <br>
 - 👶🏻 Started my coding journey at Le Wagon Montreal with Ruby <br>
 - 🙇🏻 Currently honing my skillset in React and Javascript <br>
-- 📬 Don't be shy, say hello at chan.william.ts@gmail.com or <a href='https://www.linkedin.com/in/william-chan-1163b1248/'>LinkedIn</a> <br>
+- 📬 Don't be shy, say hello at chan.william.ts@gmail.com or <a href='https://www.linkedin.com/in/william-chan-1163b1248/' target="_blank">LinkedIn</a> <br>
 
 <br>
 <h4 align='left'>Languages & Tools</h4>
