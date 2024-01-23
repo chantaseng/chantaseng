@@ -2,7 +2,7 @@
 <h3 align='center'>Junior Front-End Developer 🧑🏻‍💻</h3>
 
 <br>
-Please take a look at my <a href='https://portfolio-chantaseng.netlify.app/' target="_blank">portfolio</a> <br>
+Please take a look at my <a href='https://william-chan.dev' target="_blank">portfolio</a> <br>
 
 <br>
 - 👷🏻‍♂️ Web developer with almost a decade of construction experience <br>
